@@ -1,0 +1,5 @@
+{
+  "name": "Iffi Virtual PC",
+  "description": "A high-fidelity Virtual PC Simulator with real-time CPU architecture visualization, memory mapping, and a functional neon-themed OS. Developed by Iftikhar Ali (iffi.dev).",
+  "requestFramePermissions": []
+}
